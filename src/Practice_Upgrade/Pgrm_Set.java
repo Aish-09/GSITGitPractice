@@ -1,4 +1,4 @@
-package Practice_Upgrade;
+package practice_Upgrade;
 
 //Importing java.util.* allows access to Set, LinkedHashSet, and Iterator
 import java.util.*;

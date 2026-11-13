@@ -1,4 +1,4 @@
-package Practice_Upgrade;
+package practice_Upgrade;
 import java.util.*;
 
 public class Prgm_DuplicatedusingLinkedHashSet {

@@ -1,4 +1,4 @@
-package Practice_Upgrade;
+package practice_Upgrade;
 
 //class cannot be static
 class Students{
